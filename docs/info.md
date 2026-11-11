@@ -9,12 +9,15 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Calculator
 
 ## How to test
 
-Explain how to use your project
+Connect inputs and expect outputs
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+dip switch
+2 push buttons 
+Function generator
+2 seven segment display
