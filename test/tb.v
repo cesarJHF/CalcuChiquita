@@ -28,7 +28,7 @@ module tb ();
 `endif
 
   // Replace tt_um_example with your module name:
-  tt_um_cesarJHF_CalcuChiquita (
+  tt_um_cesarJHF_CalcuChiquita user_example(
 
       // Include power ports for the Gate Level test:
 `ifdef GL_TEST
